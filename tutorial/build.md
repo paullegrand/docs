@@ -1,26 +1,4 @@
-# 2. Build and Display Your Content
-
-Now that we can work with Craft CMS locally, we’ll configure and edit our blog content and learn how to work with it on the front end.
-
-We’ll start with our configuration and content editing in the control panel, then continue either with a Twig front end or Craft’s GraphQL API.
-
-## Content in Craft CMS
-
-### Get familiar with content modeling in Craft
-
-TODO: explain content modeling
-
-TODO: overview of demo Sections, Entries, Field Layouts and Fields (include Globals?) **key point: flexibility**
-
-### Create blog fields
-
-### Create a blog section
-
-### Configure Globals
-
-### Edit entries
-
-TODO: edit blog entries
+# 3. Build Your Front End
 
 ## Choose your front end
 

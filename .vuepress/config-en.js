@@ -20,6 +20,7 @@ module.exports = {
                     ['', 'Welcome'],
                     'environment',
                     'install',
+                    'configure',
                     'build',
                     'deploy',
                 ]

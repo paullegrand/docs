@@ -18,6 +18,6 @@ We’ll build an example blog since that’s a common use for a CMS, but the goa
 
 ## What We’re Going to Do
 
-We’re going to get Craft installed and running in a local environment, customize the example blog it ships with, and launch the site on the internet. All you’ll need is yourself, your computer, about an hour, and hopefully a bit of enthusiasm.
+We’re going to get Craft installed and running in a local environment, create a blog from scratch, and look at a few ways you might launch the site publicly. All you’ll need is yourself, your computer, and a healthy sense of adventure.
 
 If you’re ready to roll, start with “0. Set Up Your Environment” below and to the right.

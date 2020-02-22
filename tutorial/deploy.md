@@ -1,4 +1,4 @@
-# 3. Make Your Site Live
+# 4. Make Your Site Live
 
 - using Git
     - what to commit
