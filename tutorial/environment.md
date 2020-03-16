@@ -94,6 +94,7 @@ TODO: write environment setup guides for each (must include creating a database 
 
 ### MacOS, Windows, and Linux
 
+- [Craft Nitro](#)
 - [Laravel Homestead](#)
 - [Vagrant](#)
 - [DDEV](#)
@@ -109,9 +110,5 @@ TODO: write environment setup guides for each (must include creating a database 
 - [WAMP](#)
 - [AMPPS](#)
 - [XAMPP](#)
-
-::: tip
-If you’re not sure where to start, MAMP and XAMPP are easiest options to start with on MacOS and Windows. Laravel Homestead and Laravel Valet are worth the extra time commitment if you’ll be working a lot more with PHP.
-:::
 
 Once you’ve set up your local development environment, we’re ready to install Craft CMS!

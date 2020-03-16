@@ -2,11 +2,11 @@
 
 ## Install Craft CMS with Composer
 
-At this point you should have a local development environment running with a database and know how to use console commands. Now we’ll make sure Composer is installed.
+At this point you should have a local development environment running with a database and know how to run console commands. Now we’ll make sure Composer is installed.
 
 ### What’s Composer?
 
-Composer is a command line application with one important job: it makes sure our website has all the PHP code it needs to run.
+Composer is a command line application with one important job: it makes sure a PHP project like our website has all the code it needs to run.
 
 This code is split up into numerous _packages_ written by different authors. Our website depends on these packages—also referred to as _dependencies_—and each one provides a specific set of functionality. Composer makes sure every PHP package (including Craft CMS!) is installed, has the dependencies it needs to do its job, and that all these packages can work together without major conflicts.
 
@@ -34,10 +34,10 @@ Choose a new path on your computer where you’d like to install Craft CMS. It c
 
 You’ll need to tell composer about the path you’ve chosen, and you can do that in one of two ways:
 
-1. Find and provide the full path, like `/Users/lucille/projects/craft` or `C:\Users\lucille\projects\craft`.
+1. Find and provide the full path, like `/Users/bjorn/projects/craft` or `C:\Users\bjorn\projects\craft`.
 2. Use the `cd` console command to navigate to your desired parent folder, like `cd projects`, and then provide your desired folder name from there (like `craft`).
 
-Whichever option you choose, subsitute your desired path for `<Path>` in this command:
+Whichever option you choose, substitute your desired path for `<Path>` in this command:
 
 ```bash
 composer create-project craftcms/craft <Path>
@@ -104,7 +104,7 @@ It’s okay if you’ve never used Git or if any of these pieces isn’t clear; 
 
 Before we can install Craft, we have to make sure it’s able to find the database you created for it. You’ll do this by editing settings in the `.env` file. Unless you skipped ahead, your file will look just like this but with a unique `SECURITY_KEY` filled in:
 
-```
+```dotenv
 # The environment Craft is currently running in ('dev', 'staging', 'production', etc.)
 ENVIRONMENT="dev"
 
@@ -151,7 +151,7 @@ Saving database credentials to your .env file ... done
 
 If you look again at your `.env` file, you’ll see those connection settings were filled in and saved:
 
-```
+```dotenv
 # The environment Craft is currently running in ('dev', 'staging', 'production', etc.)
 ENVIRONMENT="dev"
 

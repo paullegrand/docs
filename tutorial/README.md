@@ -12,7 +12,7 @@ If at any point you get stuck, consider [joining us on Discord](https://craftcms
 
 Craft is a content management system for building bespoke websites. 
 
-There are lots of options when it comes to choosing a CMS, and what makes Craft unique is that it’s a blank slate that puts your content first and offers an excellent developer experience for working with it.
+There are lots of options when it comes to choosing a CMS, and what makes Craft CMS unique is that it’s a blank slate that puts your content first and offers a flexible, tailored experience for both developers and content authors.
 
 We’ll build an example blog since that’s a common use for a CMS, but the goal is to introduce you to the building blocks you can tailor for *any* kind of content. (This is where Craft shines!)
 

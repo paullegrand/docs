@@ -1,4 +1,4 @@
-# 2. Configure & Build Your Content
+# 2. Configure & Create Your Content
 
 You now officially have a working local Craft CMS install!
 
@@ -30,7 +30,7 @@ You probably won’t need to visit Utilies too often, but it has some helpful to
 
 By default you’ll land on the System Report. These are key details about your Craft install, and while we’re here it’s a good idea to make sure that each of the items under “Requirements” has a green check mark next to it. If anything there does not have a green check mark, choose the “i” icon to see more information and see if it’s something you’re able to adjust and meet that requirement.
 
-We won’t be using these utilities so you can skip ahead if you’d rather:
+We won’t be using these utilities so you can skip ahead if you’d rather. But here’s a quick look at what they do:
 
 - Updates will list software updates that are available for Craft CMS and any installed plugins.
 - PHP Info lists exhaustive details about your environment’s PHP configuration that can be useful for troubleshooting.
@@ -41,11 +41,22 @@ We won’t be using these utilities so you can skip ahead if you’d rather:
 - Find and Replace is a powerful tool you can use to find and replace text in your database.
 - Migrations will list and run PHP instructions you write for programmatically changing stuff.
 
+## Plugin Store
+
 ## Content in Craft CMS
 
-The process of deciding what shape your content should take is referred to as content modeling. Once you’re familiar with Craft’s building blocks, it can be liberating and even fun to decide how you’ll use them to bring your project to life.
+The process of deciding what shape your content should take is referred to as “content modeling.” Once you’re familiar with Craft’s building blocks, it can be liberating and even fun to decide how you’ll use them to bring your project to life.
 
 ### Get familiar with content modeling in Craft
+
+Let’s take a quick look at the key building blocks and then use them to set up our blog.
+
+#### Sections
+
+Sections are often where most of your content will live. A section is a collection of similar types of content, like a blog post, press release, or job listing. Each section is meant to have many Entries that each follow a specific URL pattern and use whatever set of custom input fields you decide it should have.
+
+A job listing section, for example, might have fields for requirements, location and salary range. A blog post probably won’t need any of those, but certainly a post body, imagery, and categories or tags.
+
 
 TODO: overview of demo Sections, Entries, Field Layouts and Fields (include Globals?) **key point: flexibility**
 
