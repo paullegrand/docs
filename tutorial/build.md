@@ -15,15 +15,25 @@ If you’re familiar with JavaScript and have built a site using Gatsby or Grids
 
 TODO: compare working with Twig and GraphQL to someone who’s not done either, then link to template or GraphQL route
 
-## Edit templates
+## Create templates
 
 Craft ships with the ability to create a dynamic front end using Twig templates.
 
+TODO: share set of demo files before we start, meant for copy+paste
+
 TODO: explain markup, purpose of templates
 
-TODO: mention other front end assets 
+TODO: mention other front end assets (but grab existing for tutorial)
 
-### Check out the example templates
+TODO: create layout
+
+TODO: create entry detail page (explain `_`)
+
+TODO: create single template
+
+TODO: create category index?
+
+TODO: create category post listing (high-level routing overview)
 
 ### VS Code syntax highlighting
 
@@ -32,8 +42,6 @@ TODO: mention other front end assets
 - JSON
 - JavaScript?
 - more useful plugins
-
-## Install a plugin
 
 ## Fetch content with GraphQL
 
@@ -48,3 +56,5 @@ TODO: querying Entries, Globals, and Assets
 TODO: sending data back to Craft (CSRF) ?
 
 TODO: configuring Live Preview
+
+## Install a plugin?

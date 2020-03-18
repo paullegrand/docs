@@ -10,14 +10,14 @@ If at any point you get stuck, consider [joining us on Discord](https://craftcms
 
 ## Why Craft CMS?
 
-Craft is a content management system for building bespoke websites. 
+Craft CMS is a content management system for building bespoke websites.
 
-There are lots of options when it comes to choosing a CMS, and what makes Craft CMS unique is that it’s a blank slate that puts your content first and offers a flexible, tailored experience for both developers and content authors.
+There are lots of options when it comes to choosing a CMS, and what makes Craft CMS unique is that it’s a blank slate that puts your content first. It offers a flexible, tailored experience for both developers and content authors.
 
-We’ll build an example blog since that’s a common use for a CMS, but the goal is to introduce you to the building blocks you can tailor for *any* kind of content. (This is where Craft shines!)
+We’ll build an example blog since that’s a common use for a CMS. You can do a lot more with Craft CMS, but the goal of this tutorial is to introduce you to the building blocks you use for building _any_ kind of content. (This is where Craft shines!)
 
 ## What We’re Going to Do
 
-We’re going to get Craft installed and running in a local environment, create a blog from scratch, and look at a few ways you might launch the site publicly. All you’ll need is yourself, your computer, and a healthy sense of adventure.
+We’re going to get Craft CMS installed and running in a local environment, create a blog from scratch, and look at a few ways you might launch the site publicly. All you’ll need is yourself, your computer, and a healthy sense of adventure.
 
 If you’re ready to roll, start with “0. Set Up Your Environment” below and to the right.
